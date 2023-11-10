@@ -1,0 +1,9 @@
+/venv
+models
+
+__pycache__
+.mypy*
+
+.vscode
+
+data
